@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Movie 1",
+        "synopsis": "Synopsis of Movie 1",
+        "trailerUrl": "https://www.example.com/trailer1",
+        "imgUrl": "https://www.example.com/image1",
+        "rating": "8",
+        "genreId": "3",
+        "authorId": "7",
+        "status": "active"
+    },
+    {
+        "title": "Movie 2",
+        "synopsis": "Synopsis of Movie 2",
+        "trailerUrl": "https://www.example.com/trailer2",
+        "imgUrl": "https://www.example.com/image2",
+        "rating": "9",
+        "genreId": "5",
+        "authorId": "2",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    },
+    {
+        "title": "Movie 3",
+        "synopsis": "Synopsis of Movie 3",
+        "trailerUrl": "https://www.example.com/trailer3",
+        "imgUrl": "https://www.example.com/image3",
+        "rating": "7",
+        "genreId": "1",
+        "authorId": "10",
+        "status": "active"
+    }
+]
